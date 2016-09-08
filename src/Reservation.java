@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Created by Jennica on 07/09/2016.
  */
 public class Reservation {
-    
+
     public static void main(String[] args) {
         int N = 100;
         int answer;
